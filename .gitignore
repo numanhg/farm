@@ -36,3 +36,4 @@ data/raw/
 data/raw/**
 
 *.ipynb
+*.h5
